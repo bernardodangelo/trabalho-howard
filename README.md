@@ -20,4 +20,7 @@
      ```bash
      python principal.py
      ```
+
+**Vídeo utilizando o sistema:** https://drive.google.com/file/d/1GbQhq7KO_m5ogyU9vLMlZrTvsoFmbiCj/view
+
 **Grupo:** Bernardo D'Angelo, Jefferson Buloto de Souza, João Vithor Lordes Stem Machado, Luciano da Silva Paiva e Nathan Alexandre Vidigal de Souza.
