@@ -20,4 +20,4 @@
      ```bash
      python principal.py
      ```
-Grupo: Bernardo D'Angelo, Jefferson Buloto de Souza, João Vithor Lordes Stem Machado, Luciano da Silva Paiva e Nathan Alexandre Vidigal de Souza.
+**Grupo:** Bernardo D'Angelo, Jefferson Buloto de Souza, João Vithor Lordes Stem Machado, Luciano da Silva Paiva e Nathan Alexandre Vidigal de Souza.
